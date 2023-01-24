@@ -8,4 +8,5 @@ import "fmt"
 func main() {
    
    fmt.Println("Hello,OC World M.K.F ")
+   fmt.Println("Can't wait to learn more")
 }
